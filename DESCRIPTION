@@ -1,0 +1,6 @@
+Package: retailStorePkg
+Title: Retail Store Sales Analysis Package
+Description: Retail store sales data analysis functions.
+Version: 1.0
+Author: Aamna Gull
+License: MIT
